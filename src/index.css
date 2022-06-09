@@ -1,0 +1,12 @@
+@import url("tailwindcss/base");
+@import url("tailwindcss/components");
+@import url("tailwindcss/utilities");
+
+::-webkit-scrollbar{
+    width: 7px;
+    height: 10px;
+    background: transparent;
+}
+::-webkit-scrollbar-thumb{
+    background: rgb(41, 106, 237);
+}
